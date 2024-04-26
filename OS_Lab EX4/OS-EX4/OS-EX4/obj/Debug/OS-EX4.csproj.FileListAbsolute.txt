@@ -1,0 +1,7 @@
+D:\Uni\OS Lab\OS_Lab EX4\OS-EX4\OS-EX4\bin\Debug\OS-EX4.exe.config
+D:\Uni\OS Lab\OS_Lab EX4\OS-EX4\OS-EX4\bin\Debug\OS-EX4.exe
+D:\Uni\OS Lab\OS_Lab EX4\OS-EX4\OS-EX4\bin\Debug\OS-EX4.pdb
+D:\Uni\OS Lab\OS_Lab EX4\OS-EX4\OS-EX4\obj\Debug\OS-EX4.csproj.AssemblyReference.cache
+D:\Uni\OS Lab\OS_Lab EX4\OS-EX4\OS-EX4\obj\Debug\OS-EX4.csproj.CoreCompileInputs.cache
+D:\Uni\OS Lab\OS_Lab EX4\OS-EX4\OS-EX4\obj\Debug\OS-EX4.exe
+D:\Uni\OS Lab\OS_Lab EX4\OS-EX4\OS-EX4\obj\Debug\OS-EX4.pdb
